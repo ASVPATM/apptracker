@@ -2,7 +2,7 @@
 *--(Work in Progress)--* Simple Application Tracker 
 
 
-- Using SwiftUI 
+- Still learning how to use SwiftUI 
 
 
 - I have a general idea of what I want in the app but im trying to figure out how best to layer the stacks
